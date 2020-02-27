@@ -1,0 +1,14 @@
+build
+bin
+.settings
+*.ipr
+*.iml
+*.txt
+.java-version
+.idea
+.classpath
+.project
+.factorypath
+.apt_generated
+target/
+/logs/
